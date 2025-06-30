@@ -1,0 +1,26 @@
+MARKET BASKET ANALYSIS - BUSINESS INSIGHTS
+==================================================
+
+HIGH CONFIDENCE RULES:
+HIGH LIFT RULES:
+MOST POPULAR ITEMS:
+- whole milk: Appears in 22.3% of all transactions
+- other vegetables: Appears in 17.1% of all transactions
+- rolls/buns: Appears in 12.7% of all transactions
+- soda: Appears in 10.3% of all transactions
+- tropical fruit: Appears in 10.3% of all transactions
+- root vegetables: Appears in 10.0% of all transactions
+- yogurt: Appears in 10.0% of all transactions
+- sausage: Appears in 9.4% of all transactions
+- citrus fruit: Appears in 8.2% of all transactions
+- pip fruit: Appears in 7.4% of all transactions
+
+MOST POPULAR ITEM PAIRS:
+- whole milk + other vegetables: Bought together in 5.0% of transactions
+- root vegetables + other vegetables: Bought together in 3.4% of transactions
+- root vegetables + whole milk: Bought together in 3.0% of transactions
+- whole milk + yogurt: Bought together in 2.9% of transactions
+- tropical fruit + whole milk: Bought together in 2.8% of transactions
+
+BUSINESS RECOMMENDATIONS:
+1. Place other vegetables near root vegetables (Lift: 1.98)
